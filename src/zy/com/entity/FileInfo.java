@@ -1,6 +1,6 @@
 package zy.com.entity;
 
-public class FileInfoBean {
+public class FileInfo {
 	private String fileName;
 	private String fileSize;
 	private String fileDate;
